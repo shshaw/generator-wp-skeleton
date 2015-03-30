@@ -1,0 +1,10 @@
+autorefresh=1
+savedIncoming=0
+lastUsedView=1
+savedOutgoing=0
+lastCheckedRemotes=2015-03-30 15:04:12 +0000
+disablerecursiveoperations=0
+autorefreshremotes=1
+subtree0.path=https://github.com/WordPress/WordPress/
+subtree0.prefix=public_html/wp
+subtree0.refspec=master
